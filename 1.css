@@ -1,0 +1,24 @@
+*{margin: 0; padding: 0;}
+
+button.btn.btn-success-outline.iconshopping {
+    background: #da1616;
+    color: white;
+    font-weight: bold;
+    border-radius: 20px;
+}
+
+button.btn.btn-success-outline.searchbutton {position: absolute;border-radius: unset;}
+
+button.searchbutton {
+    color: white;
+    background: #da1616;
+    position: absolute;
+}
+
+.navbar-form .form-control.search {
+    width: 500px;
+    border-radius: unset;
+} 
+.content{
+	background: #F5F5F5;
+}
